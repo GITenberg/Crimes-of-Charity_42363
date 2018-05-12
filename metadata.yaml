@@ -1,0 +1,48 @@
+_repo: Crimes-of-Charity_42363
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Reed, John
+    aliases:
+    - Reed, John Silas
+    - Reid, John
+    birthdate: 1887
+    deathdate: 1920
+    gutenberg_agent_id: '1109'
+    url: http://www.gutenberg.org/2009/agents/1109
+    wikipedia: http://en.wikipedia.org/wiki/John_Reed_(journalist)
+covers:
+- cover_type: archival
+  image_path: 42363-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Bercovici, Konrad
+    alias: Berkovichi, Konrad
+    birthdate: 1882
+    deathdate: 1961
+    gutenberg_agent_id: '35483'
+    url: http://www.gutenberg.org/2009/agents/35483
+    wikipedia: http://en.wikipedia.org/wiki/Konrad_Bercovici
+description: Title; Contents; Introduction; The Stove-A Parable; My First Impression;
+  The Second Day; At Work; Watch Their Mail; The Roller Skates; The Test; Scabs; Saving
+  Him; ""Too Good to Them""; Robbers of the Peace; The Sign at the Door; What is Done
+  in His Name?; The Picture; The Price of Life; Air-From Fifth Floor to Basement;
+  The Investigators; The Children of the Poor; Mother and Son; Clipping Wings of Little
+  Birds; The Orphan Home; Why They Give; The Kitchen; Chocolate; Out of Their Clutches;
+  ""The Home""; ""Bismarck""; Twenty-One Cents and a Quarter; Visiting Day; Employment
+  Agencies
+gutenberg_issued: '2013-03-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42363'
+  lccn: '17015181'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Charities -- New York (State) -- New York'
+- !lcsh 'Charity organization'
+- !lcc 'HV'
+title: Crimes of Charity
+url: http://www.gutenberg.org/ebooks/42363
